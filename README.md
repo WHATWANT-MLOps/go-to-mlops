@@ -18,3 +18,9 @@ study about mlops
   - https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/데이터-분야의-직군-소개
   - https://www.slideshare.net/zzsza/data-science-intro
 
+## 공부해야할 것
+
+### Python
+
+- Pandas
+  - https://www.kaggle.com/learn/pandas
